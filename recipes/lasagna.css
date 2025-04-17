@@ -1,0 +1,44 @@
+* {
+    /* outline: 3px red solid; */
+    box-sizing: border-box;
+}
+
+body {
+    background-color: pink;
+}
+
+h1, h2 {
+    color: #660000;
+    
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+ p { 
+    text-indent: 30px;
+ }
+
+.block {
+    margin: 15px 0;
+    background-color: white;
+    padding: 3px 15px;
+    
+}
+
+img, .block {
+    border-radius: 25px;
+}
+
+.recipe {
+    margin: 25px 0 0 5%;
+    width: 50%;
+}
+
+
+
+.home {
+    color: black;
+    margin-left: 88%;
+}
